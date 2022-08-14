@@ -1,0 +1,5 @@
+/checkstyle-5.7-all.jar
+ /biuoop-1.4.jar
+
+# Project exclude paths
+/out/
